@@ -9,6 +9,8 @@ public class HelloWorld {
 		System.out.println("Hello end DanceHall");
 		
 		System.out.println("local");
+		System.out.println("orign");
+
 	}
 
 }
