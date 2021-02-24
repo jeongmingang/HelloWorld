@@ -7,6 +7,8 @@ public class HelloWorld {
 
 		System.out.println("Earth`s end DanceHall");
 		System.out.println("Hello end DanceHall");
+		
+		System.out.println("local");
 	}
 
 }
